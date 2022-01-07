@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CodingAlphaWolf</h1>
 <h3 align="center">A student who loves to learn programming languages.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjodh&label=Profile%20views&color=0e75b6&style=flat" alt="tjodh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAlphaWolf&label=Profile%20views&color=0e75b6&style=flat" alt="tjodh" /> </p>
 
 - 🔭 I’m currently working on **Multiple projects.**
 
