@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm CodingAlphaWolf</h1>
+<h3 align="center">A student who loves to learn programming languages.</h3>
 
-<!--
-**CodingAlphaWolf/CodingAlphaWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjodh&label=Profile%20views&color=0e75b6&style=flat" alt="tjodh" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Multiple projects.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **IT Network Manager course.**
+
+- 👯 I’m looking to collaborate on **nothing at the moment.**
+
+- 🤝 I’m looking for help with **nothing at the moment**
+
+- 👨‍💻 All of my projects are available at [-](-)
+
+- 📝 I regularly write articles on [-](-)
+
+- 📫 How to reach me **you can't :P.**
+
+- 📄 Know about my experiences [-](-)
+
+- ⚡ Fun fact **I'm always relaxed.**
