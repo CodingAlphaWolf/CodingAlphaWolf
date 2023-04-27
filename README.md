@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multiple projects.**
 
-- 🌱 I’m currently learning **IT Network Manager course.**
+- 🌱 I’m currently learning **nothing at the moment.**
 
 - 👯 I’m looking to collaborate on **nothing at the moment.**
 
