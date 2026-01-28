@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 📫 How to reach me **@lefreak on Mastodon.social, as Freakazoid on Lemmy.ml or s @LeFreak at Pixelfed.social**
+- 📫 How to reach me **@lefreak on Mastodon.social, as Freakazoid on Lemmy.ml or as @LeFreak at Pixelfed.social**
 
 - 📄 Know about my experiences [-](-)
 
