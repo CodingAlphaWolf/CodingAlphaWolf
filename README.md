@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingAlphaWolf&label=Profile%20views&color=0e75b6&style=flat" alt="tjodh" /> </p>
 
-- 🔭 I’m currently working on **MY Dotfiles scripts and AdguardCLI-script.**
+- 🔭 I’m currently working on **My .dotfiles and AdguardCLI-script.**
 
 - 🌱 I’m currently learning **nothing at the moment.**
 
